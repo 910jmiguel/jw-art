@@ -1,7 +1,7 @@
 # 🖼️ JW Art Website
 A basic website made for a small business (Work in Progress).
 
-# ❓ Purpose
+## ❓ Purpose
 This website is created to help support a friend's art business from Ajax, Ontario, Canada that focuses white charcoal drawings on paper. Details are to come in the website about this art business.
 
 ## ⚙️ Features

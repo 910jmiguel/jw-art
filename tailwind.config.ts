@@ -11,6 +11,8 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        lightgray: "#d9d9d9",
+        darkgray: "#303030",
       },
       fontFamily: {
         sans: ['var(--font-inter)']

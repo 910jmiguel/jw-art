@@ -5,7 +5,6 @@ import { faCircleChevronRight } from "@fortawesome/free-solid-svg-icons";
 import Button from "./Button";
 
 const Hero = () => {
-
   const router = useRouter(); // Hook for navigation
 
   const handleExploreClick = () => {
@@ -28,11 +27,20 @@ const Hero = () => {
             ducimus dicta quis illo.
           </p>
 
-          <Button onClick={handleExploreClick} label="Explore" icon={faCircleChevronRight} />
-
+          <Button
+            onClick={handleExploreClick}
+            label="Explore"
+            icon={faCircleChevronRight}
+          />
         </div>
 
-        <Image src="/pic1.png" alt="matthews" width={600} height={450} className=""/>
+        <Image
+          src="/pic1.png"
+          alt="matthews"
+          width={600}
+          height={450}
+          className=""
+        />
       </div>
     </section>
   );

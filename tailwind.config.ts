@@ -13,6 +13,7 @@ export default {
         foreground: "var(--foreground)",
         lightgray: "#d9d9d9",
         darkgray: "#303030",
+        darkgray2: "#554e50"
       },
       fontFamily: {
         sans: ['var(--font-inter)']

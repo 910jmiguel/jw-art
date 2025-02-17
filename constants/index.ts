@@ -4,3 +4,4 @@ export const NAV_LINKS = [
     { href: "/gallery", key: "gallery", label: "Gallery" },
     { href: "/contactus", key: "contactus", label: "Contact Us" }
 ];
+
